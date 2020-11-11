@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Tojka.Common\Tojka.Common.csproj" />
+    <ProjectReference Include="..\Tojka.Data\Tojka.Data.csproj" />
+    <ProjectReference Include="..\Tojka.Model\Tojka.Model.csproj" />
+  </ItemGroup>
+
+</Project>
