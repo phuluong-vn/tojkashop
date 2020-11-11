@@ -3,17 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tojka.Common", "Tojka.Common\Tojka.Common.csproj", "{36959332-6AC6-4AAE-8C09-90530788A76C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tojka.Common", "Tojka.Common\Tojka.Common.csproj", "{36959332-6AC6-4AAE-8C09-90530788A76C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tojka.Model", "Tojka.Model\Tojka.Model.csproj", "{1A74D7FF-EDCC-46B2-BD0D-45983A525667}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tojka.Model", "Tojka.Model\Tojka.Model.csproj", "{1A74D7FF-EDCC-46B2-BD0D-45983A525667}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tojka.Data", "Tojka.Data\Tojka.Data.csproj", "{48152831-E986-4166-9919-C3E52C771E90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tojka.Data", "Tojka.Data\Tojka.Data.csproj", "{48152831-E986-4166-9919-C3E52C771E90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tojka.Service", "Tojka.Service\Tojka.Service.csproj", "{FB18F646-D6FB-4D67-BA6E-81B0E8CF57D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tojka.Service", "Tojka.Service\Tojka.Service.csproj", "{FB18F646-D6FB-4D67-BA6E-81B0E8CF57D5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tojka.UnitTest", "Tojka.UnitTest\Tojka.UnitTest.csproj", "{172AC288-F0C1-43D4-B5CD-4485D270754D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tojka.Web", "Tojka.Web\Tojka.Web.csproj", "{B9E28432-A185-4885-AA0B-CF905ED3C441}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F127698-566C-4083-8242-5AFFD90A674E}"
+	ProjectSection(SolutionItems) = preProject
+		readmetxt.txt = readmetxt.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
