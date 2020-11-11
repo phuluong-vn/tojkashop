@@ -15,11 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tojka.UnitTest", "Tojka.Uni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tojka.Web", "Tojka.Web\Tojka.Web.csproj", "{B9E28432-A185-4885-AA0B-CF905ED3C441}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3F127698-566C-4083-8242-5AFFD90A674E}"
-	ProjectSection(SolutionItems) = preProject
-		readmetxt.txt = readmetxt.txt
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
